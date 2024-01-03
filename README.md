@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a computer science student deeply immersed in the realms of web development and machine learning. With a passion for ethical hacking, I thrive on exploring ways to enhance cybersecurity responsibly. Proficient in crafting user-friendly interfaces and diving into backend development, I enjoy creating seamless online experiences. In the world of machine learning, I engage in projects involving data analysis and intelligent algorithms. Beyond technology, I value collaboration and continuous learning, aiming to make a meaningful impact in the ever-evolving field of computer science.
 
 
