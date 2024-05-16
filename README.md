@@ -2,7 +2,7 @@
 I'm a computer science student deeply immersed in the realms of web development and machine learning. With a passion for ethical hacking, I thrive on exploring ways to enhance cybersecurity responsibly. Proficient in crafting user-friendly interfaces and diving into backend development, I enjoy creating seamless online experiences. In the world of machine learning, I engage in projects involving data analysis and intelligent algorithms. Beyond technology, I value collaboration and continuous learning, aiming to make a meaningful impact in the ever-evolving field of computer science.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@rohit-shahi-152661253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@rohitdebugbugs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@rohit-shahi-152661253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@rohitdebugbugs) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/@rohitdebugbugs)
 
 # 💻 Tech Stack:
 
@@ -20,6 +20,7 @@ I'm a computer science student deeply immersed in the realms of web development 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Technologies and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
