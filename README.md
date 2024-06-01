@@ -12,6 +12,7 @@ I'm a computer science student deeply immersed in the realms of web development 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## Frameworks and Libraries
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
