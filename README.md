@@ -1,35 +1,67 @@
-# About Me:
-I'm a computer science student deeply immersed in the realms of web development and machine learning. With a passion for ethical hacking, I thrive on exploring ways to enhance cybersecurity responsibly. Proficient in crafting user-friendly interfaces and diving into backend development, I enjoy creating seamless online experiences. In the world of machine learning, I engage in projects involving data analysis and intelligent algorithms. Beyond technology, I value collaboration and continuous learning, aiming to make a meaningful impact in the ever-evolving field of computer science.
+![Rohit Shahi GitHub](https://github.com/rohiit257/rohiit257/assets/your-image-link)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@rohit-shahi-152661253) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/@rohitdebugbugs)
+<h1 align="center">Hi, guys! 👋</h1>
 
-# 💻 Tech Stack:
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+   <i>
+        I'm Rohit Shahi, a passionate coder exploring the realms of technology.
+    </i>
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/in/your-profile/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://leetcode.com/your-leetcode/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+    </a>
+    <a href="https://www.codechef.com/users/your-codechef">
+        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
+    </a>
+    <a href="https://codeforces.com/profile/your-codeforces">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+    </a>
+</p>
 
-## Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white) 
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rohiit257)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rohiit257)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/rohiit257)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/rohiit257)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/rohiit257)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rohiit257)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rohiit257)
 
-## Frameworks and Libraries
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Technologies & Frameworks
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/rohiit257)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/rohiit257)
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://github.com/rohiit257)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/rohiit257)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/rohiit257)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/rohiit257)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/rohiit257)
+[![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://github.com/rohiit257)
+[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://github.com/rohiit257)
 
-## Technologies and Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rohiit257)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rohiit257)
 
----
-[![](https://visitcount.itsvg.in/api?id=rohiit257&icon=9&color=9)](https://visitcount.itsvg.in)
+### Currently Working On
+[![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<p align="center">
+  <a href="https://github.com/rohiit257">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohiit257&theme=transparent" />
+  </a>
+  <a href="https://github.com/rohiit257">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohiit257&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/rohiit257">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohiit257&theme=transparent" />
+  </a>
+</details>
+
+<h2 align="center"><b>Visitor's Count</b></h2>
+<p align="center"><img src="https://profile-counter.glitch.me/rohiit257/count.svg" alt="visitor badge"/></p>
