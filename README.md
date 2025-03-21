@@ -1,4 +1,6 @@
-![Rohit Shahi GitHub](https://github.com/rohiit257/rohiit257/assets/your-image-link)
+<p align="center">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="GitHub Banner" />
+</p>
 
 <h1 align="center">Hi, guys! 👋</h1>
 
