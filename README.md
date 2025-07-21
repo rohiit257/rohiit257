@@ -2,8 +2,6 @@
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="GitHub Banner" />
 </p>
 
-<a href="https://app.daily.dev/rohitdebugbugs"><img src="https://api.daily.dev/devcards/v2/Ue0gw7NckaPdxhdNbExMP.png?type=default&r=5yc" width="356" alt="rohitdebugBugs's Dev Card"/></a>
-
 <h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
